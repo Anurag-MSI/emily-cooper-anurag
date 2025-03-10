@@ -12,7 +12,8 @@ categories:
 ---
 
 {{< here >}}
-
+## Hello my name is Anurag Chakraborty. 
+## What is your name?
 ## But first, panelsets with R code chunks
 
 {{< panelset class="greetings" >}}
@@ -24,7 +25,7 @@ categories:
 {{< panel name="Code" >}}
 
 
-```r
+``` r
 plot(pressure)
 ```
 
