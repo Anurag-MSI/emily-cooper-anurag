@@ -26,6 +26,7 @@ sidebar:
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
+type: talk
 cascade:
   type: talk
   author: "The R Markdown Team @RStudio"
